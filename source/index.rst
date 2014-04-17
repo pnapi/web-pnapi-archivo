@@ -11,4 +11,4 @@ Estamos en fase de pruebas...
 .. toctree::
    :maxdepth: 2
 
-   congreso
+   congreso/2014/index

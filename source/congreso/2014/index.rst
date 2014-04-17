@@ -1,7 +1,9 @@
 II Congreso Nacional de Profesores de Informática (#CoNPI14)
 ============================================================
 
-Los días 9 y 10 de mayo de 2014 se celebra en Valencia el II congreso nacional de profesores de informática. Este año organizado por la Asociación de Profesores de Informática de la Comunidad Valenciana (APICV).
+Los días 9 y 10 de mayo de 2014 se celebra en Valencia el II congreso nacional de profesores de informática. Este año organizado por la `Asociación de Profesores de Informática de la Comunidad Valenciana (APICV)`_.
+
+.. _Asociación de Profesores de Informática de la Comunidad Valenciana (APICV): http://www.apicv.es/
 
 Las sedes del congreso son:
 
@@ -14,7 +16,7 @@ Los temas principales del congreso son:
 * La LOMCE y la Informática
 * Novedades y experiencias en Formación Profesional
 
-Contenido de las :ref:`charlas`.
+Contenido de las :doc:`charlas`.
 
 Si estás interesado en más detalles del congreso (inscripción, ubicación, etc.) puedes acceder a: http://congreso.profesoresinformatica.es/
 

@@ -16,7 +16,7 @@ Los temas principales del congreso son:
 * La LOMCE y la Informática
 * Novedades y experiencias en Formación Profesional
 
-Contenido de las :doc:`charlas`.
+Contenido de las :doc:`ponencias`.
 
 Si estás interesado en más detalles del congreso (inscripción, ubicación, etc.) puedes acceder a: http://congreso.profesoresinformatica.es/
 

@@ -2,6 +2,7 @@ Ponencias del #CoNPI14
 ======================
 
 .. _pensamiento-computacional:
+
 La educación del pensamiento computacional
 ------------------------------------------
 
@@ -10,8 +11,19 @@ Jesús Moreno
 
 Programamos es una asociación sin ánimo de lucro cuyo objetivo fundamental es promover el desarrollo del pensamiento computacional desde edades tempranas a través de la programación de videojuegos y aplicaciones para móviles en todas las etapas escolares, desde educación infantil hasta formación profesional.  A lo largo de la ponencia conoceremos los motivos que llevaron a su fundación, los objetivos que persiguen y las acciones que llevan a cabo para promover estas prácticas y enseñanzas por todo nuestro país.
 
+.. _fct-ampliada:
+
+FP con FCT Ampliada
+-------------------
+
+En el curso 2013­2014 determinados ciclos formativos de formación profesional de grado medio son propuestos en la Comunidad de Madrid para su desarrollo experimental con ampliación del módulo profesional de Formación en centros de trabajo. SMR, de la Familia Profesional de
+Informática, fue uno de ellos.
+
+¿Cómo se ha desarrollado la experiencia  en el aula? ¿Con qué dotación se ha contado? ¿Cuál ha sido la respuesta de las empresas?
+
 
 .. _experiencias:
+
 Infraestructura de redes y servicios en el CIPFP Mislata
 --------------------------------------------------------
 
@@ -36,6 +48,7 @@ Todo esto estuvo "contaminado" en sentido positivo por un grupo de porfesores de
 En la actualidad, el IES imparte, de forma complementaria a sus alumnos de ASIX principalmente, aunque también a los de otros ciclos de la familia profesional, el CCNA Exploration, y desde este curso el CCNA Routing and Switching. También prepara al alumnado para la obtención de la certificación LPIC y Cisco IT Essentials.
 
 .. _metodologia:
+
 Uso de metodologías activas en el desarrollo de proyectos integradores: Experiencias con grupos de 2º curso en el CIPFP Mislata
 -------------------------------------------------------------------------------------------------------------------------------
 
@@ -45,6 +58,7 @@ Toni Cambra, Juan Murgui y Lorenzo González
 A la FP se le ha supuesto tradicionalmente una sintonía con las demandas del sector profesional TIC en lo que concierne a la provisión de técnicos altamente capacitados. Sin embargo, analizado con más detenimiento, parecería como si los procesos de enseñanza-aprendizaje hubieran tenido hasta ahora sólo parcialmente en cuenta las condiciones y dinámicas de trabajo reales a las que el alumno se enfrenta como profesional una vez abandona las aulas. En esta charla, docentes del CIPFP Mislata explican cómo han dado respuesta a esta problemática a través del cambio metodológico en el aula.
 
 .. _gamesonomy:
+
 Creatividad y videojuegos: experiencias en el aula con Gamesonomy
 -----------------------------------------------------------------
 

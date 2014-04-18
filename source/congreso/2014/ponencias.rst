@@ -16,7 +16,10 @@ Programamos es una asociación sin ánimo de lucro cuyo objetivo fundamental es 
 FP con FCT Ampliada
 -------------------
 
-En el curso 2013­2014 determinados ciclos formativos de formación profesional de grado medio son propuestos en la Comunidad de Madrid para su desarrollo experimental con ampliación del módulo profesional de Formación en centros de trabajo. SMR, de la Familia Profesional de
+Lola Parra
+~~~~~~~~~~
+
+En el curso 2013-­2014 determinados ciclos formativos de formación profesional de grado medio son propuestos en la Comunidad de Madrid para su desarrollo experimental con ampliación del módulo profesional de Formación en centros de trabajo. SMR, de la Familia Profesional de
 Informática, fue uno de ellos.
 
 ¿Cómo se ha desarrollado la experiencia  en el aula? ¿Con qué dotación se ha contado? ¿Cuál ha sido la respuesta de las empresas?

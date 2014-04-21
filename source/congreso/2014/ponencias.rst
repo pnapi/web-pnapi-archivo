@@ -33,13 +33,21 @@ Ponente por determinar
 
 .. _fp-dual-informatica-madrid:
 
-La FP Dual en la Comunidad de Madrid
-------------------------------------
+La FP Dual en la especialidad de Informática en Madrid: 3 años funcionando
+--------------------------------------------------------------------------
 
 Amadeo Mora
 ~~~~~~~~~~~
 
+En el curso 2011/12 se inició el programa, entonces experimental, de FP Dual en la Comunidad de Madrid con un par de ciclos formativos en un par de centros. Uno de ellos fue el de Desarrollo de aplicaciones multiplataforma en el IES Clara del Rey.
 
+En las tres ediciones que se han iniciado tanto el modelo formativo como la relación con las empresas ha variado. Además, se han añadido otros títulos. Solo en el IES Clara del Rey se imparten cinco titulaciones de distintas familias profesionales contando con cerca de 400 alumnos en esta modalidad. En el área de informática y comunicaciones se ha añadido el ciclo de Administración en sistemas informáticos en red.
+
+Estamos en condiciones de afirmar que el modelo actualmente implantado es un modelo estable aunque susceptible de algún tipo de cambio dirigido a una mejor incorporación al mercado laboral.
+
+Con esta experiencia previa, debemos introducir la necesidad de esta formación conjunta en el mundo empresarial indicando los beneficios económicos y sociales que ello puede llevar a cabo sin perder de vista, en ningún caso, el posible abuso de este sistema.
+
+De este trabajo conjunto deben salir favorecidos el alumnado, la empresa y el centro educativo devolviendo a la sociedad el esfuerzo realizado.
 
 
 .. _fct-ampliada:

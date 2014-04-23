@@ -11,7 +11,11 @@ Marcos Román
 
 Estar codigoalfabetizado (‘code-literate’) consistiría en ser capaz de leer y escribir en el lenguaje de los ordenadores y otras máquinas, y pensar computacionalmente. Estar codigoalfabetizado equivale a un ‘superpoder’ del siglo XXI, una competencia básica que permite participar eficaz y activamente en un mundo repleto de objetos digitales, que posibilita crear tecnología y no sólo consumirla. 
 En nuestra ponencia defenderemos la tesis de la codigoalfabetización como un nuevo alfabetismo. También nos aproximaremos al concepto de ‘pensamiento computacional’, clave del nuevo enfoque de la codigoalfabetización. En este emergente enfoque lo principal no es el aprendizaje de lenguajes concretos de programación sino los procesos cognitivos de resolución de problemas subyacentes, que son transferibles a una gran variedad de áreas curriculares y son desarrollables desde edades muy tempranas.
-Como conclusión, afirmaremos que: a) la codigoalfabetización es adecuada puesto que desarrolla aptitudes y habilidades valiosas como razonamiento lógico, resolución de problemas, creatividad y atención sostenida; b) que es viable dado que, para ello, se pueden establecer fácilmente metodologías y recursos didácticos soportados tecnológicamente como MOOCs o ‘apps’ específicos para el aprendizaje del ‘coding’, que pueden integrarse en el aula a través del modelo ‘flipped classroom’; c) que el aprendizaje del ‘coding’ es una habilidad emergente y relevante dado que permite a los estudiantes generar un producto final de creciente uso, utilidad y valoración social, que puede ser compartido y ‘remixado’ por una comunidad global.
+Como conclusión, afirmaremos que:
+
+a) la codigoalfabetización es adecuada puesto que desarrolla aptitudes y habilidades valiosas como razonamiento lógico, resolución de problemas, creatividad y atención sostenida;
+b) que es viable dado que, para ello, se pueden establecer fácilmente metodologías y recursos didácticos soportados tecnológicamente como MOOCs o ‘apps’ específicos para el aprendizaje del ‘coding’, que pueden integrarse en el aula a través del modelo ‘flipped classroom’;
+c) que el aprendizaje del ‘coding’ es una habilidad emergente y relevante dado que permite a los estudiantes generar un producto final de creciente uso, utilidad y valoración social, que puede ser compartido y ‘remixado’ por una comunidad global.
 
 
 Programamos.es

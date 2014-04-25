@@ -79,7 +79,7 @@ La LOMCE: Currículo, reflexiones y orientaciones en los distintos niveles
 Manuel Noguerol
 ~~~~~~~~~~~~~~~
 
-
+Cambios que introduce la aplicación de la LOMCE respecto la LOE en los Currículos de las distintas asignaturas relacionadas con la enseñanza de la Informática.
 
 
 .. _experiencias:

@@ -140,7 +140,7 @@ ETSE-UV: Jornadas, talleres y concursos para secundaria y ciclos
 Vicente Cerverón
 ~~~~~~~~~~~~~~~~
 
-
+Desde hace 8 años, la ETSE-UV convoca un concurso de diseño de páginas web para estudiantes de enseñanza secundaria d­e la Comunidad Valenciana. El objetivo del concurso es motivar a los estudiantes a participar en la creación y permanente mejora de las herramientas web de sus centros. 
 
 
 .. _talleres-gamesonomy:

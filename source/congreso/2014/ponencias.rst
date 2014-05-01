@@ -70,6 +70,17 @@ Informática, fue uno de ellos.
 
 ¿Cómo se ha desarrollado la experiencia  en el aula? ¿Con qué dotación se ha contado? ¿Cuál ha sido la respuesta de las empresas?
 
+SMR_extendida en la Comunidad de Madrid
+---------------------------------------
+
+Carmen Luengo
+~~~~~~~~~~~~~
+
+En el curso 2012­2013 se comienza a experimentar con una nueva forma de organización de los ciclos de grado medio en la Comunidad de Madrid. Denominados extendidos o con FCT ampliada, estamos en el segundo curso de experimentación y en el primero para nuestra Familia Profesional.
+
+Impartir todos los contenidos en un solo curso, sin temporalización, Redes Locales y Servicios en Red, simultáneamente, determinara unos resultados impredecibles. En ello estamos.
+
+¿Cómo se será el próximo curso en las empresas? ¿Son iguales todas las Familias Profesionales?
 
 .. _lomce:
 

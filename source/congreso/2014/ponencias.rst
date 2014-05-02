@@ -1,7 +1,7 @@
 Ponencias del #CoNPI14
 ======================
 
-.. _pensamiento-computacional:
+.. _codigoalfabetizacion:
 
 Codigoalfabetización desde edades tempranas
 -------------------------------------------
@@ -17,6 +17,8 @@ a) la codigoalfabetización es adecuada puesto que desarrolla aptitudes y habili
 b) que es viable dado que, para ello, se pueden establecer fácilmente metodologías y recursos didácticos soportados tecnológicamente como MOOCs o ‘apps’ específicos para el aprendizaje del ‘coding’, que pueden integrarse en el aula a través del modelo ‘flipped classroom’;
 c) que el aprendizaje del ‘coding’ es una habilidad emergente y relevante dado que permite a los estudiantes generar un producto final de creciente uso, utilidad y valoración social, que puede ser compartido y ‘remixado’ por una comunidad global.
 
+
+.. _programamos:
 
 Programamos.es
 --------------
@@ -138,8 +140,8 @@ A la FP se le ha supuesto tradicionalmente una sintonía con las demandas del se
 LliureX: actualidad y futuro
 ----------------------------
 
-Ponente por determinar
-~~~~~~~~~~~~~~~~~~~~~~
+David Montalvà
+~~~~~~~~~~~~~~
 
 
 

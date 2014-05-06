@@ -105,24 +105,13 @@ Ramón Onrubia
 
 En esta ponencia se presenta una visión global de la infraestructura de red y servicios informáticos implantada en el CIPFP Mislata por el equipo de mantenimiento en los últimos años, desde la arquitectura y diseño de red local así como los servicios de red en alta disponibilidad, pasando por la gestión unificada de la wifi y todos los aspectos relacionados con la monitorización y la seguridad de la red.
 
-¿Más redes en CIPFP?
---------------------
+La FP y las certificaciones profesionales
+-----------------------------------------
 
 J. Salvador Mira
 ~~~~~~~~~~~~~~~~
 
-En el año 2010 ocupo mi nuevo destino definitivo (al cual espero sacarle todo el sentido a la palabra "definitivo") en el IES Pere Maria Orts i Bosch de Benidorm.
-
-La situación en el IES es particulamente especial: se encuentra en una obra de adecuación y ampliación (obra que por desgracia a día de hoy se mantiene paralizada y sin terminar).
-
-En la ampliación había diseñar las bases de la nueva red del instituto, y se tenían que tener en cuenta diferentens requerimientos: debía ser convergente, debía permitir la separación entre al menos las aulas y los servicios de secretaría y dirección, se requerían para los alumnos y profesores diferentes servicios comunes.
-
-Todo esto se tuvo en cuenta a la hora de hacer el diseño. Pero además se pensó que el sistema debía ser flexible, fácilmente ampliable, actualizable, sostenible. Por ello se optó también por la virtualización de servidores como modelo para desplegar en el nuevo instituto.
-
-Todo esto estuvo "contaminado" en sentido positivo por un grupo de porfesores del centro que, además, se habían planteado la posibilidad de hacer algo diferente: llevar las certificaciones profesionales a las aulas. Y en esto mucho tuvo que ver mi compañero de ponencia, Ramón Onrubia. La certificación de partida fue el CCNA de Cisco. Esta era una certificación ideal también a la hora de aplicar muchos de los conceptos que incluye a la red del centro, con lo cual se cumplían dos objetivos: un buen diseño de la red, y una red que sirviese como ejemplo real para los alumnos que cursan sus estudios de informática con nosotros.
-
-En la actualidad, el IES imparte, de forma complementaria a sus alumnos de ASIX principalmente, aunque también a los de otros ciclos de la familia profesional, el CCNA Exploration, y desde este curso el CCNA Routing and Switching. También prepara al alumnado para la obtención de la certificación LPIC y Cisco IT Essentials.
-
+Vamos a hablar sobre perfiles profesionales en el sector de la informática y de las certificaciones profesionales de la industria, así como de la experiencia que tenemos en nuestro IES en la impartición del CCNA de Cisco.
 
 .. _metodologia:
 

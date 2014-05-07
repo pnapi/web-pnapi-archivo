@@ -34,8 +34,8 @@ Programamos es una asociación sin ánimo de lucro cuyo objetivo fundamental es 
 La FP Dual en la especialidad de Informática en la C.V.
 -------------------------------------------------------
 
-Ponente por determinar
-~~~~~~~~~~~~~~~~~~~~~~
+Guillermo Nevot
+~~~~~~~~~~~~~~~
 
 
 

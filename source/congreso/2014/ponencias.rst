@@ -132,7 +132,7 @@ LliureX: actualidad y futuro
 David Montalvà
 ~~~~~~~~~~~~~~
 
-
+LliureX es la distribución educativa GNU/Linux de la Comunitat Valenciana implantada en los centros educativos desde el año 2005. Actualmente se está viviendo un gran auge en el uso de software libre por parte de las administraciones publicas y grandes empresas de varios paises (Alemania, Brasil, Francia, ...), en esta ponencia veremos en que punto se encuentra LliureX y cual va a ser su orientación.
 
 .. _talleres-etse:
 

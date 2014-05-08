@@ -37,7 +37,7 @@ La FP Dual en la especialidad de Informática en la C.V.
 Guillermo Nevot
 ~~~~~~~~~~~~~~~
 
-
+Breve presentación sobre los objetivos de la FP Dual en la Comunidad Valenciana y profundización en el modelo de FP Dual que se está implementando en dicha comunidad, señalando las principales características del mismo.
 
 
 .. _fp-dual-informatica-madrid:

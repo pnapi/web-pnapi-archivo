@@ -17,6 +17,7 @@ a) la codigoalfabetización es adecuada puesto que desarrolla aptitudes y habili
 b) que es viable dado que, para ello, se pueden establecer fácilmente metodologías y recursos didácticos soportados tecnológicamente como MOOCs o ‘apps’ específicos para el aprendizaje del ‘coding’, que pueden integrarse en el aula a través del modelo ‘flipped classroom’;
 c) que el aprendizaje del ‘coding’ es una habilidad emergente y relevante dado que permite a los estudiantes generar un producto final de creciente uso, utilidad y valoración social, que puede ser compartido y ‘remixado’ por una comunidad global.
 
+Volver a la web de congreso_
 
 .. _programamos:
 
@@ -28,6 +29,7 @@ Jesús Moreno
 
 Programamos es una asociación sin ánimo de lucro cuyo objetivo fundamental es promover el desarrollo del pensamiento computacional desde edades tempranas a través de la programación de videojuegos y aplicaciones para móviles en todas las etapas escolares, desde educación infantil hasta formación profesional.  A lo largo de la ponencia conoceremos los motivos que llevaron a su fundación, los objetivos que persiguen y las acciones que llevan a cabo para promover estas prácticas y enseñanzas por todo nuestro país.
 
+Volver a la web de congreso_
 
 .. _fp-dual-informatica-cv:
 
@@ -39,6 +41,7 @@ Guillermo Nevot
 
 Breve presentación sobre los objetivos de la FP Dual en la Comunidad Valenciana y profundización en el modelo de FP Dual que se está implementando en dicha comunidad, señalando las principales características del mismo.
 
+Volver a la web de congreso_
 
 .. _fp-dual-informatica-madrid:
 
@@ -58,6 +61,7 @@ Con esta experiencia previa, debemos introducir la necesidad de esta formación 
 
 De este trabajo conjunto deben salir favorecidos el alumnado, la empresa y el centro educativo devolviendo a la sociedad el esfuerzo realizado.
 
+Volver a la web de congreso_
 
 .. _fct-ampliada:
 
@@ -72,6 +76,8 @@ Informática, fue uno de ellos.
 
 ¿Cómo se ha desarrollado la experiencia  en el aula? ¿Con qué dotación se ha contado? ¿Cuál ha sido la respuesta de las empresas?
 
+Volver a la web de congreso_
+
 SMR_extendida en la Comunidad de Madrid
 ---------------------------------------
 
@@ -84,6 +90,8 @@ Impartir todos los contenidos en un solo curso, sin temporalización, 
 
 ¿Cómo se será el próximo curso en las empresas? ¿Son iguales todas las Familias Profesionales?
 
+Volver a la web de congreso_
+
 .. _lomce:
 
 La LOMCE: Currículo, reflexiones y orientaciones en los distintos niveles
@@ -94,6 +102,7 @@ Manuel Noguerol
 
 Cambios que introduce la aplicación de la LOMCE respecto la LOE en los Currículos de las distintas asignaturas relacionadas con la enseñanza de la Informática.
 
+Volver a la web de congreso_
 
 .. _experiencias:
 
@@ -105,6 +114,8 @@ Ramón Onrubia
 
 En esta ponencia se presenta una visión global de la infraestructura de red y servicios informáticos implantada en el CIPFP Mislata por el equipo de mantenimiento en los últimos años, desde la arquitectura y diseño de red local así como los servicios de red en alta disponibilidad, pasando por la gestión unificada de la wifi y todos los aspectos relacionados con la monitorización y la seguridad de la red.
 
+Volver a la web de congreso_
+
 La FP y las certificaciones profesionales
 -----------------------------------------
 
@@ -112,6 +123,8 @@ J. Salvador Mira
 ~~~~~~~~~~~~~~~~
 
 Vamos a hablar sobre perfiles profesionales en el sector de la informática y de las certificaciones profesionales de la industria, así como de la experiencia que tenemos en nuestro IES en la impartición del CCNA de Cisco.
+
+Volver a la web de congreso_
 
 .. _metodologia:
 
@@ -123,6 +136,7 @@ Toni Cambra, Juan Murgui y Lorenzo González
 
 A la FP se le ha supuesto tradicionalmente una sintonía con las demandas del sector profesional TIC en lo que concierne a la provisión de técnicos altamente capacitados. Sin embargo, analizado con más detenimiento, parecería como si los procesos de enseñanza-aprendizaje hubieran tenido hasta ahora sólo parcialmente en cuenta las condiciones y dinámicas de trabajo reales a las que el alumno se enfrenta como profesional una vez abandona las aulas. En esta charla, docentes del CIPFP Mislata explican cómo han dado respuesta a esta problemática a través del cambio metodológico en el aula.
 
+Volver a la web de congreso_
 
 .. _talleres-lliurex:
 
@@ -134,6 +148,8 @@ David Montalvà
 
 LliureX es la distribución educativa GNU/Linux de la Comunitat Valenciana implantada en los centros educativos desde el año 2005. Actualmente se está viviendo un gran auge en el uso de software libre por parte de las administraciones publicas y grandes empresas de varios paises (Alemania, Brasil, Francia, ...), en esta ponencia veremos en que punto se encuentra LliureX y cual va a ser su orientación.
 
+Volver a la web de congreso_
+
 .. _talleres-etse:
 
 ETSE-UV: Jornadas, talleres y concursos para secundaria y ciclos
@@ -144,6 +160,7 @@ Vicente Cerverón
 
 Desde hace 8 años, la ETSE-UV convoca un concurso de diseño de páginas web para estudiantes de enseñanza secundaria d­e la Comunidad Valenciana. El objetivo del concurso es motivar a los estudiantes a participar en la creación y permanente mejora de las herramientas web de sus centros. 
 
+Volver a la web de congreso_
 
 .. _talleres-gamesonomy:
 
@@ -158,3 +175,7 @@ Gamesonomy es una aplicación cuyo principal objetivo es facilitar la creación 
 Gamesonomy ha desarrollado un entorno en la nube accesible desde cualquier ordenador. El editor de juegos se ha definido con un interfaz intuitiva y sencilla, a la vez que permite realizar juegos de gran complejidad técnica. La utilización es completamente gratuita y los juegos pueden jugarse en el portal www.gamesonomy.com y desde la aplicación móvil (iOS y Android). El entorno facilita la publicación de juegos en las tiendas online App Store y Google Play, permitiendo de esta forma rentabilizar las creaciones mediante herramientas de monetización, tales como publicidad, compras desde la aplicación y marcadores. 
 
 Por otro lado, Gamesonomy es una poderosa herramienta educativa y está dirigida también a docentes que desean utilizar los videojuegos para la enseñanza, potenciando entre sus alumnos valores como el desarrollo de la creatividad, el trabajo en equipo y el aprendizaje basado en proyectos. Gamesonomy puede utilizarse para explicar contenidos básicos de física, matemáticas, informática o incluso para las clases de diseño y arte.
+
+Volver a la web de congreso_
+
+.. _congreso: http://congreso.profesoresinformatica.es/

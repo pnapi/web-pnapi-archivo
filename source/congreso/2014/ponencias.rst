@@ -17,6 +17,8 @@ a) la codigoalfabetización es adecuada puesto que desarrolla aptitudes y habili
 b) que es viable dado que, para ello, se pueden establecer fácilmente metodologías y recursos didácticos soportados tecnológicamente como MOOCs o ‘apps’ específicos para el aprendizaje del ‘coding’, que pueden integrarse en el aula a través del modelo ‘flipped classroom’;
 c) que el aprendizaje del ‘coding’ es una habilidad emergente y relevante dado que permite a los estudiantes generar un producto final de creciente uso, utilidad y valoración social, que puede ser compartido y ‘remixado’ por una comunidad global.
 
+`Enlace a la presentación <http://prezi.com/k9tv62yqdpq4/codigoalfabetizacion-desde-edades-tempranas/>`_
+
 Volver a la web de congreso_
 
 .. _programamos:
@@ -28,6 +30,8 @@ Jesús Moreno
 ~~~~~~~~~~~~
 
 Programamos es una asociación sin ánimo de lucro cuyo objetivo fundamental es promover el desarrollo del pensamiento computacional desde edades tempranas a través de la programación de videojuegos y aplicaciones para móviles en todas las etapas escolares, desde educación infantil hasta formación profesional.  A lo largo de la ponencia conoceremos los motivos que llevaron a su fundación, los objetivos que persiguen y las acciones que llevan a cabo para promover estas prácticas y enseñanzas por todo nuestro país.
+
+`Enlace a la presentación <http://www.slideshare.net/programamos/el-proyecto-programamos-conpi14>`_
 
 Volver a la web de congreso_
 
@@ -114,6 +118,8 @@ Ramón Onrubia
 
 En esta ponencia se presenta una visión global de la infraestructura de red y servicios informáticos implantada en el CIPFP Mislata por el equipo de mantenimiento en los últimos años, desde la arquitectura y diseño de red local así como los servicios de red en alta disponibilidad, pasando por la gestión unificada de la wifi y todos los aspectos relacionados con la monitorización y la seguridad de la red.
 
+`Enlace a la presentación <http://congreso.profesoresinformatica.es/files/Infraestructura_red_y_servicios_CIPFP_Mislata.pdf>`_
+
 Volver a la web de congreso_
 
 La FP y las certificaciones profesionales
@@ -147,6 +153,8 @@ David Montalvà
 ~~~~~~~~~~~~~~
 
 LliureX es la distribución educativa GNU/Linux de la Comunitat Valenciana implantada en los centros educativos desde el año 2005. Actualmente se está viviendo un gran auge en el uso de software libre por parte de las administraciones publicas y grandes empresas de varios paises (Alemania, Brasil, Francia, ...), en esta ponencia veremos en que punto se encuentra LliureX y cual va a ser su orientación.
+
+`Enlace a la presentación <http://congreso.profesoresinformatica.es/files/LliureX_presente_y_futuro.pdf>`_
 
 Volver a la web de congreso_
 

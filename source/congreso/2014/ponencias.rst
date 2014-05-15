@@ -146,6 +146,8 @@ Toni Cambra, Juan Murgui y Lorenzo González
 
 A la FP se le ha supuesto tradicionalmente una sintonía con las demandas del sector profesional TIC en lo que concierne a la provisión de técnicos altamente capacitados. Sin embargo, analizado con más detenimiento, parecería como si los procesos de enseñanza-aprendizaje hubieran tenido hasta ahora sólo parcialmente en cuenta las condiciones y dinámicas de trabajo reales a las que el alumno se enfrenta como profesional una vez abandona las aulas. En esta charla, docentes del CIPFP Mislata explican cómo han dado respuesta a esta problemática a través del cambio metodológico en el aula.
 
+`Enlace a la presentación <https://docs.google.com/presentation/d/1Lwngp0Agb9HSC2KvwYd9kwIcV05Gdcep4AcTWzdFfGs/pub>`_
+
 Volver a la web de congreso_
 
 .. _talleres-lliurex:

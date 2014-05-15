@@ -82,6 +82,8 @@ Informática, fue uno de ellos.
 
 ¿Cómo se ha desarrollado la experiencia  en el aula? ¿Con qué dotación se ha contado? ¿Cuál ha sido la respuesta de las empresas?
 
+`Enlace a la presentación <http://congreso.profesoresinformatica.es/files/FCT_Ampliada.pdf>`_
+
 Volver a la web de congreso_
 
 SMR_extendida en la Comunidad de Madrid
@@ -95,6 +97,8 @@ En el curso 2012­2013 se comienza a experimentar con una nueva forma
 Impartir todos los contenidos en un solo curso, sin temporalización, Redes Locales y Servicios en Red, simultáneamente, determinara unos resultados impredecibles. En ello estamos.
 
 ¿Cómo se será el próximo curso en las empresas? ¿Son iguales todas las Familias Profesionales?
+
+`Enlace a la presentación <http://congreso.profesoresinformatica.es/files/FCT_Ampliada.pdf>`_
 
 Volver a la web de congreso_
 

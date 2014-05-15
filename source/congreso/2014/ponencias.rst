@@ -130,6 +130,8 @@ J. Salvador Mira
 
 Vamos a hablar sobre perfiles profesionales en el sector de la informática y de las certificaciones profesionales de la industria, así como de la experiencia que tenemos en nuestro IES en la impartición del CCNA de Cisco.
 
+`Enlace a la presentación <http://prezi.com/8evh7xrbiqhh/ciclos-formativos-y-certificaciones-profesionales-de-informatica/>`_
+
 Volver a la web de congreso_
 
 .. _metodologia:

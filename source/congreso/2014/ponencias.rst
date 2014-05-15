@@ -65,6 +65,8 @@ Con esta experiencia previa, debemos introducir la necesidad de esta formación 
 
 De este trabajo conjunto deben salir favorecidos el alumnado, la empresa y el centro educativo devolviendo a la sociedad el esfuerzo realizado.
 
+`Enlace a la presentación <http://amadeomora.es/presentaciones/IESClaraDelRey_IICongresoInformatica.pdf>`_
+
 Volver a la web de congreso_
 
 .. _fct-ampliada:

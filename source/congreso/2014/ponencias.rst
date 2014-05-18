@@ -196,6 +196,8 @@ Gamesonomy ha desarrollado un entorno en la nube accesible desde cualquier orden
 
 Por otro lado, Gamesonomy es una poderosa herramienta educativa y está dirigida también a docentes que desean utilizar los videojuegos para la enseñanza, potenciando entre sus alumnos valores como el desarrollo de la creatividad, el trabajo en equipo y el aprendizaje basado en proyectos. Gamesonomy puede utilizarse para explicar contenidos básicos de física, matemáticas, informática o incluso para las clases de diseño y arte.
 
+`Enlace a la presentación <http://congreso.profesoresinformatica.es/files/presentacion_Gamesonomy.pdf>`_
+
 Volver a la web de congreso_
 
 .. _congreso: http://congreso.profesoresinformatica.es/

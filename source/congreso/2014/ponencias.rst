@@ -112,6 +112,8 @@ Manuel Noguerol
 
 Cambios que introduce la aplicación de la LOMCE respecto la LOE en los Currículos de las distintas asignaturas relacionadas con la enseñanza de la Informática.
 
+`Enlace a la presentación <http://congreso.profesoresinformatica.es/files/LOMCE_CoNPI14.pdf>`_
+
 Volver a la web de congreso_
 
 .. _experiencias:

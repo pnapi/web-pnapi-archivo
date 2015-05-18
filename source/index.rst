@@ -14,3 +14,4 @@ Puedes ir directamente a la web del II Congreso Nacional: http://congreso.profes
    :maxdepth: 2
 
    congreso/2014/index
+   prensa/2015/index

@@ -14,8 +14,7 @@ Repercusión en la prensa:
 
 * [16/05/2015 - El Diario] `Profesores de Informática piden que se estudie computación en ESO y Bachiller <http://www.eldiario.es/turing/Profesores-Informatica-estudie-computacion-Bachiller_0_388461304.html>`_
 
-* [16/05/2015 - El Día] `Profesores de Informática piden que se estudie computación
-en ESO y Bachiller <http://eldia.es/agencias/8104784-INFORM-TICA-DOCENTES-Profesores-Informatica-piden-estudie-computacion-ESO-Bachiller>`_
+* [16/05/2015 - El Día] `Profesores de Informática piden que se estudie computación en ESO y Bachiller <http://eldia.es/agencias/8104784-INFORM-TICA-DOCENTES-Profesores-Informatica-piden-estudie-computacion-ESO-Bachiller>`_
 
 * [16/05/2015 - La Vanguardia] `Profesores de Informática piden que se estudie computación en ESO y Bachiller <http://www.lavanguardia.com/tecnologia/20150516/54431673670/profesores-de-informatica-piden-que-se-estudie-computacion-en-eso-y-bachiller.html>`_
 

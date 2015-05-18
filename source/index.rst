@@ -6,10 +6,6 @@
 Plataforma Nacional de Asociaciones de Profesores de Informatica
 ================================================================
 
-Estamos en fase de pruebas...
-
-Puedes ir directamente a la web del II Congreso Nacional: http://congreso.profesoresinformatica.es/
-
 .. toctree::
    :maxdepth: 2
 

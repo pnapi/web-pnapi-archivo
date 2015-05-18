@@ -7,7 +7,7 @@ Campaña "Ciencias de la Computación" - 17 de Mayo - Día de Internet
 Con motivo del Día de Internet y a propuesta de la Asociación Andaluza de 
 Profesores de Informática (AAPRI), la PNAPI lanzó una campaña para reclamar una 
 apuesta seria por las Ciencias de la Computación mediante una Carta abierta a 
-los líderes políticos españoles. [Disponible en `PDF <http://www.profesoresinformatica.es/en/latest/prensa/2015/Carta-CienciasComputacion.pdf>`_]
+los líderes políticos españoles. [Disponible en :download:`PDF <./Carta-CienciasComputacion.pdf>`]
 
 Repercusión en la prensa:
 `````````````````````````

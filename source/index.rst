@@ -6,6 +6,8 @@
 Plataforma Nacional de Asociaciones de Profesores de Informatica
 ================================================================
 
+(web en preparación)
+
 Las asociaciones del profesorado de informática, algunas de las cuales disponen de sitio web propio, son:
 
 * `Asociación de Profesores de Informática de la Comunidad Valenciana (APICV) <http://www.apicv.es/>`_

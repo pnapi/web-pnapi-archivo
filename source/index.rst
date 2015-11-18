@@ -16,6 +16,7 @@ Las asociaciones del profesorado de informática, algunas de las cuales disponen
 * Asociación de Profesores de Informática de Cantabria (APIC)
 * `Asociación de Profesores de Informática de Castilla-La Mancha <http://www.arpicm.org/>`_
 * `Asociación Profesores Informática de Madrid <http://www.apimadrid.org/>`_
+* `Associació de Professors d’Informàtica de les Illes Balears <http://www.asbaprin.org/>`_
 * Asociación Regional Murciana de Profesores de Informática (ARMPI)
 * Asociación de Profesores deInformática de Galicia
 * Asociación de Profesores de Informática de Asturias

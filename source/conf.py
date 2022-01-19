@@ -43,8 +43,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Profesores Informatica'
-copyright = u'2014, PNAPI'
+project = u'Profesores Informática'
+copyright = u'2022, PNAPI'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -196,7 +196,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'ProfesoresInformatica.tex', u'Profesores Informatica Documentation',
+  ('index', 'ProfesoresInformatica.tex', u'Profesores Informática Documentation',
    u'PNAPI', 'manual'),
 ]
 
@@ -226,7 +226,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'profesoresinformatica', u'Profesores Informatica Documentation',
+    ('index', 'profesoresinformatica', u'Profesores Informática Documentation',
      [u'PNAPI'], 1)
 ]
 
@@ -240,8 +240,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'ProfesoresInformatica', u'Profesores Informatica Documentation',
-   u'PNAPI', 'ProfesoresInformatica', 'One line description of project.',
+  ('index', 'ProfesoresInformatica', u'Profesores Informática Documentation',
+   u'PNAPI', 'Informática', 'One line description of project.',
    'Miscellaneous'),
 ]
 

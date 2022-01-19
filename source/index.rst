@@ -1,9 +1,9 @@
-.. Profesores Informatica documentation master file, created by
+.. Profesores Informática documentation master file, created by
    sphinx-quickstart on Thu Apr 17 14:59:11 2014.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Plataforma Nacional de Asociaciones de Profesores de Informatica
+Plataforma Nacional de Asociaciones de Profesores de Informática
 ================================================================
 
 Las asociaciones del profesorado de informática, algunas de las cuales disponen de sitio web propio, son:
@@ -15,7 +15,7 @@ Las asociaciones del profesorado de informática, algunas de las cuales disponen
 * Asociación de Profesores de Informática de la Comunidad de Canarias (APICC)
 * Asociación de Profesores de Informática de Cantabria (APIC)
 * `Asociación de Profesores de Informática de Castilla-La Mancha <http://www.arpicm.org/>`_
-* Asociación Profesores Informática de Madrid_
+* Asociación Profesores Informática de Madrid
 * `Associació de Professors d’Informàtica de les Illes Balears <http://www.asbaprin.org/>`_
 * Asociación Regional Murciana de Profesores de Informática (ARMPI)
 * Asociación de Profesores deInformática de Galicia
